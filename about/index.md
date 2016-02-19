@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About Hope
-excerpt: "Hi, I’m Hope. Some people call me Hopie “pronounced Ho-pee,” not hoppy."
+title: "Hi, I’m Hope. Some people call me Hopie “pronounced Ho-pee,” Others simply "Po"
+excerpt: 
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: halo.jpg
+  credit: Hope Tambala
+  creditlink: 
 ---
 
 Like really..don’t call me hoppy (:

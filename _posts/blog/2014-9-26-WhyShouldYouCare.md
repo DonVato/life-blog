@@ -1,6 +1,7 @@
 ---
 comments: true
 layout: post
+categories: blog
 title: Where am I going with this?
 
 ---

@@ -1,6 +1,7 @@
 ---
 comments: true
 layout: post
+categories: blog
 title: Why is Everyday Creativity hard?
 tags: [everdaycreativity]
 ---

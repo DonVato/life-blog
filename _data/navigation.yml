@@ -3,14 +3,19 @@
 - title: About
   url: /about/
 
-- title: Articles
-  url: /articles/
+#- title: Articles
+  #url: /articles/
 
 - title: Blog
   url: /blog/
 
-- title: Theme Setup
-  url: /theme-setup/
+#- title: Theme Setup
+  #url: /theme-setup/
+- title: Music
+  url: https://soundcloud.com/tamballer
+
+- title: Flash Game Demo
+  url: https://dl.dropboxusercontent.com/u/72225291/flash/bin/Platformer_1.swf
 
 - title: Search
   url: /search/

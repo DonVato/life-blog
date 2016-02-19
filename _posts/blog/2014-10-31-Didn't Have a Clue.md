@@ -1,6 +1,7 @@
 ---
 comments: true
 layout: post
+categories: blog
 tags: [writing]
 title: Didn’t Have a Clue
 ---

@@ -1,6 +1,7 @@
 ---
 comments: true
 layout: post
+categories: blog
 title: NuffSaid
 tags: [everdaycreativity,artisticcreativity]
 ---

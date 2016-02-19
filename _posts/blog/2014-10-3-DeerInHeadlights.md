@@ -1,6 +1,7 @@
 ---
 comments: true
 layout: post
+categories: blog
 tags: [music production]
 title: Deer in the Headlights
 ---

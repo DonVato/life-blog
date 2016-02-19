@@ -1,6 +1,7 @@
 ---
 comments: true
 layout: post
+categories: blog
 title: Cuz He's Black
 ---
 *Press Title to Read More* 

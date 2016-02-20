@@ -1,6 +1,7 @@
 ---
 comments: true
-layout: post
+share: true
+layout: page
 categories: blog
 title: Where am I going with this?
 

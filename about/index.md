@@ -1,15 +1,14 @@
 ---
 layout: page
-title: "Hi, I’m Hope. Some people call me Hopie “pronounced Ho-pee,” Others simply "Po"
-excerpt: 
+title: Hi, I’m Hope
+excerpt: ""
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
   feature: halo.jpg
-  credit: Hope Tambala
+  credit: Me!
   creditlink: 
 ---
-
-Like really..don’t call me hoppy (:
+Some people call me Hopie “pronounced Ho-pee." Others simply "Po"
 
 I was born in Niles, Michigan and lived there very briefly. Moved to South Bend, IN and lived there until 4th grade. Fun life, diverse people (REALLY diverse…), but the ‘rents thought the school system was underwhelming.
 
@@ -27,6 +26,6 @@ This blog is a representation of all my inner-workings hence "Hope Declassified.
 
 
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
+<!--<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a> -->
 
 [^1]: Example: *domain.com/category-name/post-title*

@@ -1,5 +1,6 @@
 ---
 comments: true
+share: true
 layout: post
 categories: blog
 tags: [music production]

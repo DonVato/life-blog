@@ -20,8 +20,10 @@ My toilet flushed and customer service exists.
 All black people do NOT speak Spanish (don't attempt to test this) and staring at hot and/or weird looking white people isn't kosher (though very, very fun). 
 But more importantly I got a cake! Oh and I *guess* it was fun seeing my favorite people in the world, this half of the fool gang was documented being non-other than himself...
 <!-- ![blessed](/images/home2.jpg) -->
+<!--<img src="/images/home2.png" alt="blessed"> -->
 
-<img src="/images/home2.png" alt="blessed">
+<a href="https://www.flickr.com/photos/146319045@N05/29040550036/in/dateposted-public/"><img src="https://www.flickr.com/photos/146319045@N05/29040550036/in/dateposted-public/" alt="blessed"></a>
+
 
 Not to mention this spoiled brat who licked through my sock (lotta dedication my man)
 ![Duke](/images/pet.jpg)

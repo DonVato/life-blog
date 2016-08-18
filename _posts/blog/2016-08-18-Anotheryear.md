@@ -19,7 +19,7 @@ My toilet flushed and customer service exists.
 
 All black people do NOT speak Spanish (don't attempt to test this) and staring at hot and/or weird looking white people isn't kosher (though very, very fun). 
 But more importantly I got a cake! Oh and I *guess* it was fun seeing my favorite people in the world, this half of the fool gang was documented being non-other than himself...
-![Dave](/images/home2.JPG)
+![blessed](/images/home2.jpg)
 
 Not to mention this spoiled brat who licked through my sock (lotta dedication my man)
 ![Duke](/images/pet.jpg)

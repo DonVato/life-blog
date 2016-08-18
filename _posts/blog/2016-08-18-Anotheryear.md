@@ -22,7 +22,7 @@ But more importantly I got a cake! Oh and I *guess* it was fun seeing my favorit
 <!-- ![blessed](/images/home2.jpg) -->
 <!--<img src="/images/home2.png" alt="blessed"> -->
 
-<a href="https://www.flickr.com/photos/146319045@N05/29040550036/in/dateposted-public/"><img src="https://www.flickr.com/photos/146319045@N05/29040550036/in/dateposted-public/" alt="blessed"></a>
+<a href="https://www.flickr.com/photos/146319045@N05/29040550036/in/dateposted-public/"><img src="https://www.flickr.com/photos/146319045@N05/29040550036/in/dateposted-public/" alt="blessed?"></a>
 
 
 Not to mention this spoiled brat who licked through my sock (lotta dedication my man)

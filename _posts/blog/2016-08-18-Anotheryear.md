@@ -48,9 +48,16 @@ That being the complete opposite of my life here, where I have NO schedule whats
 Anyway, it’s just strange to realize how boring your life was and more so strange to realize how you can’t live this roller-coaster journey forever.  
 
 From studying quantum chemistry and working in research labs to building corn cities and talking sex with teens..
+
+<figure class="half">
+	<img src="/images/corn1.png" alt="cornOfaction">
+	<img src="/images/corn3.jpg" alt="corn?">
+	<figcaption>Kicking it with the kids</figcaption>
+</figure>
+<!--
 ![cornofaction](/images/corn1.png)
 ![corn?](/images/corn3.jpg)
-
+-->
 
 Maybe figuring this out is what I’m supposed to get out of this?
 

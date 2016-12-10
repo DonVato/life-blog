@@ -19,7 +19,7 @@ My toilet flushed and customer service exists.
 
 All black people do NOT speak Spanish (don't attempt to test this) and staring at hot and/or weird looking white people isn't kosher (though very, very fun). 
 But more importantly I got a cake! Oh and I *guess* it was fun seeing my favorite people in the world, this half of the fool gang was documented being non-other than himself...
-![blessed](life-blog/images/home.jpg)
+![blessed](/life-blog/images/home.jpg)
 <!--<img src="/images/home2.png" alt="blessed"> -->
 
 
@@ -36,7 +36,7 @@ My dad came up to me and asked me, **"So you've been gone for a year, what have 
 One from a great friend of mine, **“What’s your favorite thing about the Dominican Republic?”**
 And one from the second half of the fool duo (not pictured), **“When are you coming back?”**
 
-![Dave](life-blog/images/frozen.png)
+![Dave](/life-blog/images/frozen.png)
 
 Uhhh
 I just couldn't answer those well enough for myself to tell you the truth. I've learned Spanish but that's a boring answer. I like how cheap transportation is (which was my first answer), then realized that was a complete turd of an answer. Who goes to a gorgeous island and raves about how cheap the bus was? “Dude! That free ride rocked! Totally saved $2.” 
@@ -58,7 +58,7 @@ From studying quantum chemistry and working in research labs to building corn ci
 	<figcaption>Kicking it with the kids</figcaption>
 </figure>
 -->
-![cornofaction](life-blog/images/corn1.png)
+![cornofaction](/life-blog/images/corn1.png)
 ![corn?](/life-blog/images/corn3.jpg)
 
 

@@ -19,15 +19,12 @@ My toilet flushed and customer service exists.
 
 All black people do NOT speak Spanish (don't attempt to test this) and staring at hot and/or weird looking white people isn't kosher (though very, very fun). 
 But more importantly I got a cake! Oh and I *guess* it was fun seeing my favorite people in the world, this half of the fool gang was documented being non-other than himself...
-<!-- ![blessed](/images/home2.jpg) -->
+![blessed](/lifeblog/images/home2.jpg)
 <!--<img src="/images/home2.png" alt="blessed"> -->
 
-<figure>
-	<a href="https://flic.kr/p/LfdpLy"><img src="https://flic.kr/p/LfdpLy" alt="blessed?"></a>
-</figure>
 
 Not to mention this spoiled brat who licked through my sock (lotta dedication my man)
-![Duke](/images/pet.jpg)
+![Duke](/lifeblog/images/home.jpg)
 
 And it was weird seeing everyone walking outside. Something about catching yellow mice and hatching eggs
 
@@ -39,7 +36,7 @@ My dad came up to me and asked me, **"So you've been gone for a year, what have 
 One from a great friend of mine, **“What’s your favorite thing about the Dominican Republic?”**
 And one from the second half of the fool duo (not pictured), **“When are you coming back?”**
 
-![Dave](/images/frozen.png)
+![Dave](lifeblog/images/frozen.png)
 
 Uhhh
 I just couldn't answer those well enough for myself to tell you the truth. I've learned Spanish but that's a boring answer. I like how cheap transportation is (which was my first answer), then realized that was a complete turd of an answer. Who goes to a gorgeous island and raves about how cheap the bus was? “Dude! That free ride rocked! Totally saved $2.” 
@@ -54,20 +51,22 @@ Anyway, it’s just strange to realize how boring your life was and more so stra
 
 From studying quantum chemistry and working in research labs to building corn cities and talking sex with teens..
 
+<!--
 <figure class="half">
 	<img src="/images/corn1.png" alt="cornOfaction">
 	<img src="/images/corn3.jpg" alt="corn?">
 	<figcaption>Kicking it with the kids</figcaption>
 </figure>
-<!--
-![cornofaction](/images/corn1.png)
-![corn?](/images/corn3.jpg)
 -->
+![cornofaction](lifeblog/images/corn1.png)
+![corn?](/lifeblog/images/corn3.jpg)
+
 
 Maybe figuring this out is what I’m supposed to get out of this?
 
-*Quick note: I really should inform ya’ll that my front lawn/porch is 8 feet long and 3 feet wide. Am I some kind of cow shaman? GET THE HECK OUT OF MY FRONT LAWN COW! Look at this thing??? What the heck is it doing there? 
-![Dave](/images/cow.jpg)*
+*Quick note: I really should inform ya’ll that my front lawn/porch is 8 feet long and 3 feet wide. Am I some kind of cow shaman? GET THE HECK OUT OF MY FRONT LAWN COW! Look at this thing??? What the heck is it doing there?*
+ 
+![Dave](/lifeblog/images/cow.jpg)
 
  
 

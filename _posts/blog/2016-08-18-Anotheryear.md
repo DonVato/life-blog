@@ -24,7 +24,7 @@ But more importantly I got a cake! Oh and I *guess* it was fun seeing my favorit
 
 
 Not to mention this spoiled brat who licked through my sock (lotta dedication my man)
-![Duke](/life-blog/images/home.jpg)
+![Duke](/life-blog/images/pet.jpg)
 
 And it was weird seeing everyone walking outside. Something about catching yellow mice and hatching eggs
 

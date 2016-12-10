@@ -30,7 +30,7 @@ And why have I stayed an extra 3 months?
 Simple word: Community
 
 
-![Pantoja](/images/pc3.jpg)
+![Pantoja](/life-blog/images/pc3.jpg)
 In the DR
 
 Naw, this is about how I saw serious need where I lived and people seeming to care that I was gone when I left (had out-of-site training for some time). I saw kids literally run into my arms and give me a hug. I talked to families who were LEGITMATELY angry that I hadn’t visited them in a week (do I even know you that well?). Honestly, people who I thought couldn’t care less about me were talking about how they had missed me.
@@ -54,7 +54,7 @@ And while I’m at it, I couldn’t thank my volunteer friends enough for keepin
 
 
 
-![Bayahibe](/images/pc2.jpg)
+![Bayahibe](/life-blog/images/pc2.jpg)
 
 
 ~~**HT**

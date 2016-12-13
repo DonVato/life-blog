@@ -111,9 +111,10 @@ For those volunteers who are bummed about now being allowed to go home *yea it's
 
 
 
-# *Didn't help huh?*
+# *Didn't help huh?* #trolled
 
-Video perfectly captures Peace Corps Christmas haha but there's loads of things you can do **Don’t give up!** It gets better and you’ll have a lot of fun!
+Video perfectly captures Peace Corps Christmas. It's easy to be bummed when you're not with your family at home but there's loads of things you can do here with your new peace corps family! **Don’t give up!** It gets better and you’ll have a lot of fun!
+
 And for those in America? You can make your checks payable to Hope Tambala. I hear he's a good guy.
 
 

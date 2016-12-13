@@ -44,9 +44,11 @@ I personally find it hilarious how my measure of volunteering has changed from t
 
 4-	Going to your actual site where you’ll work for two years 
 <!--[Drake](/life-blog/images/christmas/9.jpg)-->
+
 <figure> 	
 	<img src="/life-blog/images/christmas/9.jpg" alt="Drake">	
-	<figcaption> All in your feelings </figcaption> 
+	<figcaption> All in your feelings
+	</figcaption> 
 </figure>
 
 But I mean, it’s super easy to get bogged down at the beginning. If you talk to new volunteers (and me when I first got to my site), the first thing you want to do when you arrive is leave. 
@@ -72,9 +74,9 @@ Here’s a pic of the the first round of outside toilet materials I got from a g
 </figure>
 
 Time flows fast and human emotions even faster. Your overall happiness as a volunteer can change for the better or worse in a matter of months. Here’s a calendar they often show to new volunteers then ends up being super accurate.
-<figure>
-	<img src="/life-blog/images/christmas/10.jpg" alt="In your feelings">
-	<figcaption> "In your feelings" </figcaption>
+
+<figure> 	
+	<img src="/life-blog/images/christmas/10.jpg" alt="Graph">	 
 </figure>
 
 buuuut look at how much fun I have had! 
@@ -124,4 +126,4 @@ Merry Chrismakwanzakuh!
 </figure>
 
 
-*Look at my past posts from this year! Some are decently funny hehe
+# *Look at my past posts from this year! Some are decently funny hehe*

@@ -29,20 +29,20 @@ Christmas time is the best time to celebrate how i've ~~wasted~~ spent the vast 
 
 I personally find it hilarious how my measure of volunteering has changed from training to 1 year.
 
-1. Entering country – 
+1-- Entering country – 
 
 >"Oh crap there’s no air-conditioning? This is the worst day of my life”
 
-2. Meeting host family in the country’s capital (Training) -
+2-- Meeting host family in the country’s capital (Training) -
 
 >"OH NO! THE TOILET DOESN’T FLUSH!! I CAN’T DO THIS. Maybe my host mom won’t know it was me…"
 *There's only two people who lived there, and one was me...*
 
-3. Meeting host family in the “rural” part of the country (Still training) -
+3-- Meeting host family in the “rural” part of the country (Still training) -
 
 >"I HAVE MASTERED THE TOILET!! Wait, electricity’s not coming back on until tomorrow?? This is the worst day of my life"
 
-4-	Going to your actual site where you’ll work for two years 
+4--	Going to your actual site where you’ll work for two years 
 <!--[Drake](/life-blog/images/christmas/9.jpg)-->
 
 <figure> 	
@@ -85,7 +85,7 @@ From maybe a little *too much* fun..
 
 <figure>
 	<img src="/life-blog/images/christmas/11.jpg" alt="WHOO">
-	<figcaption> "I'M GONNA DO IT!!!, I'M GONNA ET!!!" <figcaption>
+	<figcaption> "I'M GONNA DO IT!!!, I'M GONNA ET!!!" </figcaption>
 </figure>
 
 To sandy fun..
@@ -101,7 +101,7 @@ Christmas Hats and trees are cool
 	<img src="/life-blog/images/christmas/17.jpg" alt ="Loco">
 	<img src="/life-blog/images/christmas/14.jpg" alt ="Loco">	
 	
-	<figcaption>Photo....OVERLOAD</figcaption> 
+	<figcaption>Photo....OVERLOAD </figcaption> 
 </figure>
 
 For those volunteers who are bummed about now being allowed to go home *yea it's stupid* watch this video!

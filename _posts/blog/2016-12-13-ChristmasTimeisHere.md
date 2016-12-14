@@ -36,6 +36,7 @@ I personally find it hilarious how my measure of volunteering has changed from t
 2-- Meeting host family in the country’s capital (Training) -
 
 >"OH NO! THE TOILET DOESN’T FLUSH!! I CAN’T DO THIS. Maybe my host mom won’t know it was me…"
+
 *There's only two people who lived there, and one was me...*
 
 3-- Meeting host family in the “rural” part of the country (Still training) -
@@ -96,7 +97,7 @@ To sandy fun..
 	<figcaption> ET with Rob, yea yea yea</figcaption> 
 </figure>
 
-Christmas Hats and trees are cool
+Christmas hats and trees are cool
 <figure class="third"> 	
 	<img src="/life-blog/images/christmas/15.jpg" alt="Coco"> 
 	<img src="/life-blog/images/christmas/17.jpg" alt ="Loco">
@@ -105,7 +106,7 @@ Christmas Hats and trees are cool
 	<figcaption>Photo....OVERLOAD </figcaption> 
 </figure>
 
-For those volunteers who are bummed about now being allowed to go home, watch this video!
+For those volunteers who are bummed about not being allowed to go home, watch this video!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GPG3zSgm_Qo" frameborder="0" allowfullscreen></iframe>
 

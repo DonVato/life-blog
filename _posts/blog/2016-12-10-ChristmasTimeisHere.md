@@ -14,7 +14,7 @@ share: true
 On the first day of Christmas, my true love gave to me…
 	~~a partridge in a pear tree.~~
 
-# A Lamb that pees and poos to it’s heart’s glee!
+# A Lamb that's on a pee and poop spree!
 
 <!--[Lamb](/life-blog/images/3.jpg)-->
 <figure> 	
@@ -80,6 +80,7 @@ Time flows fast and human emotions even faster. Your overall happiness as a volu
 </figure>
 
 buuuut look at how much fun I have had! 
+
 From maybe a little *too much* fun..
 <!--[ET](/life-blog/images/christmas/11.jpg) -->
 
@@ -104,7 +105,7 @@ Christmas Hats and trees are cool
 	<figcaption>Photo....OVERLOAD </figcaption> 
 </figure>
 
-For those volunteers who are bummed about now being allowed to go home *yea it's stupid* watch this video!
+For those volunteers who are bummed about now being allowed to go home, watch this video!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GPG3zSgm_Qo" frameborder="0" allowfullscreen></iframe>
 
